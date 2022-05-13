@@ -1,0 +1,5 @@
+- 👋 olá meu nome é @goodsilva 
+- 👀 meu email de contato é marco.eduardoda.silva@escola.pr.gov.br
+- 🌱 eu estou enteressado em aprender a programar novas linguagens.
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de javascript e screatch
+- 
